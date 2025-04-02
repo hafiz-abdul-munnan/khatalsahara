@@ -3,7 +3,7 @@ import { NavLink } from 'react-router-dom'
 
 const HeroContainer = () => {
     return (
-        <section className='relative h-[80vh] max-sm:h-[100vh] max-sm:pt-[100px] bg-[url(./home/modern-business-center.8bc0ea32.jpg)] bg-cover bg-center flex items-center'>
+        <section className='relative h-[80vh] max-sm:h-[100vh] max-sm:pt-[100px] bg-[url(/home/modern-business-center.8bc0ea32.jpg)] bg-cover bg-center flex items-center'>
             <div className='bg-[#212d45e6] absolute inset-0'>
             </div>
             <div className=' z-10 text-white relative container mx-auto max-sm:px-6 max-sm:text-center px-10'>
