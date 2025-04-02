@@ -12,7 +12,7 @@ function App() {
 
 
   return (
-    <>
+    <div className="overflow-x-hidden">
       <Routes>
         <Route path="/" element={<HomeMaincomponent />} />
         <Route path="/business-setup" element={<BusinessSetupMaincomponent />} />
@@ -24,7 +24,7 @@ function App() {
       </Routes>
 
 
-    </>
+    </div>
   )
 }
 
