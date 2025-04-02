@@ -14,7 +14,7 @@ const DubaiMainlandLicenses = () => {
                 <h2 className='text-3xl font-semibold text-mainBlue mt-2 mb-4'>For All Types of Businesses</h2>
                 <div className='flex gap-10 w-full justify-between max-lg:flex-wrap'>
 
-                    <div className='group overflow-y-hidden w-full  bg-[url(./home/industry-dubaiMainland-1.jpg)] h-[350px] bg-cover relative max-lg:w-[47%] max-sm:w-full'>
+                    <div className='group overflow-y-hidden w-full  bg-[url(/home/industry-dubaiMainland-1.jpg)] h-[350px] bg-cover relative max-lg:w-[47%] max-sm:w-full'>
                         <div className='bg-mainBlue absolute inset-0 opacity-85'></div>
 
                         <div className='flex justify-center items-center w-[100%] h-[100%] flex-col gap-6  absolute z-10 text-mainYellow'>
@@ -26,7 +26,7 @@ const DubaiMainlandLicenses = () => {
                         </div>
                     </div>
 
-                    <div className='group overflow-y-hidden w-full  bg-[url(./home/industry-dubaiMainland-1.jpg)] h-[350px] bg-cover relative max-lg:w-[47%] max-sm:w-full'>
+                    <div className='group overflow-y-hidden w-full  bg-[url(/home/industry-dubaiMainland-1.jpg)] h-[350px] bg-cover relative max-lg:w-[47%] max-sm:w-full'>
                         <div className='bg-mainBlue absolute inset-0 opacity-85'></div>
 
                         <div className='flex justify-center items-center w-[100%] h-[100%] flex-col gap-6  absolute z-10 text-mainYellow'>
@@ -38,7 +38,7 @@ const DubaiMainlandLicenses = () => {
                         </div>
                     </div>
 
-                    <div className='group overflow-y-hidden w-full bg-[url(./home/industry-dubaiMainland-1.jpg)] h-[350px] bg-cover relative max-lg:w-[47%] max-sm:w-full'>
+                    <div className='group overflow-y-hidden w-full bg-[url(/home/industry-dubaiMainland-1.jpg)] h-[350px] bg-cover relative max-lg:w-[47%] max-sm:w-full'>
                         <div className='bg-mainBlue absolute inset-0 opacity-85'></div>
 
                         <div className='flex justify-center items-center w-[100%] h-[100%] flex-col gap-6  absolute z-10 text-mainYellow'>
@@ -50,7 +50,7 @@ const DubaiMainlandLicenses = () => {
                         </div>
                     </div>
 
-                    <div className='group overflow-y-hidden w-full bg-[url(./home/industry-dubaiMainland-1.jpg)] h-[350px] bg-cover relative max-lg:w-[47%] max-sm:w-full'>
+                    <div className='group overflow-y-hidden w-full bg-[url(/home/industry-dubaiMainland-1.jpg)] h-[350px] bg-cover relative max-lg:w-[47%] max-sm:w-full'>
                         <div className='bg-mainBlue absolute inset-0 opacity-85'></div>
 
                         <div className='flex justify-center items-center w-[100%] h-[100%] flex-col gap-6 absolute z-10 text-mainYellow'>
